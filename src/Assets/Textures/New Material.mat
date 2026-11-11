@@ -60,7 +60,7 @@ Material:
     - _BoxMax: {r: 0, g: 0, b: 0, a: 0}
     - _BoxMin: {r: 0, g: 0, b: 0, a: 0}
     - _ProveCenter: {r: 0, g: 7, b: 6, a: 0}
-    - _Prove_Center_Bias: {r: 1.8051325, g: 0, b: 0, a: 0}
+    - _Prove_Center_Bias: {r: 1.9992036, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &3062882696995512356
